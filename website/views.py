@@ -8,3 +8,5 @@ def contact_view(request):
     return render(request,'website/contact.html')
 
 
+
+
